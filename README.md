@@ -1,0 +1,1 @@
+Just created a simple stopwatch using JavaScript! Great for timing workouts, study sessions, or any task that needs precise timing. It's a straightforward project that shows how powerful JavaScript can be.
